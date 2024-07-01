@@ -1,0 +1,71 @@
+.apartado1{
+    border: 3px solid rgb(89, 95, 212);
+    width: 400px;
+    border-radius: 23px;
+    margin: 0 auto;
+    height: 200px;
+    box-shadow: 6px 10px rgb(165, 151, 42);
+    padding: 10px;
+}
+.apartado2{
+    border: 3px solid rgb(35, 28, 92);
+    width: 400px;
+    border-radius: 23px;
+    margin: 50px auto;
+    height: 200px;
+    box-shadow: 6px 10px 10px 5px rgb(77, 219, 30);
+    padding: 10px;
+}
+.apartado3{
+    border: 3px solid rgb(226, 22, 80);
+    width: 400px;
+    border-radius: 23px;
+    margin: 50px auto;
+    height: 200px;
+    box-shadow: -6px -10px 10px 5px inset rgb(149, 120, 235);
+    padding: 10px;
+}
+.apartado4{
+    border: 3px solid rgb(226, 114, 22);
+    width: 400px;
+    border-radius: 23px;
+    margin: 50px auto;
+    height: 200px;
+    box-shadow: -6px -10px 10px 5px rgb(247, 231, 8);
+    padding: 10px;
+}
+.apartado5{
+    border: 3px solid rgb(255, 8, 8);
+    width: 400px;
+    border-radius: 23px;
+    margin: 50px auto;
+    height: 200px;
+    padding: 10px;
+    box-shadow: 0px 0px 20px 5px inset rgb(104, 40, 40);
+}
+.apartado6{
+    width:400px ;
+    height: 200px;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 23px;
+    border: 3px solid grey ;
+}
+h2{
+    text-shadow: 10px -10px 3px aqua ;
+    text-align: center;
+    font-family: Helvetica;
+}
+.apartado7{
+    width:400px ;
+    height: 300px;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 23px;
+    border: 3px solid grey ;
+    box-shadow: 0px 0px 20px  5px red inset, 0px 0px 25px blue;
+    font-family: "Playwrite AU NSW", cursive;
+    font-optical-sizing: auto;
+    font-weight:weight;
+    font-style: normal;
+}
